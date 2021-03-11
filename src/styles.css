@@ -17,3 +17,21 @@ body {
   padding-top: .25em;
   padding-bottom: .25em;
 }
+
+.fc-scroller {
+  overflow-y: hidden !important;
+}
+
+input[type="submit"], button {
+  min-width: 60px;
+}
+/* .fc-next-button .fc-button .fc-button-primary{
+  background-color: white;
+  border: 0;
+} */
+
+.fc .fc-button-primary{
+  color: black;
+  background-color: white;
+  border: 0;
+}
